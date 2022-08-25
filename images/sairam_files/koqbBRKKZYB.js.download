@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
+
+__d("PolarisExploreStrings",["fbt"],(function(a,b,c,d,e,f,g,h){a=h._(/*FBT_CALL*/"Explore"/*FBT_CALL*/);b=h._(/*FBT_CALL*/"Discover People"/*FBT_CALL*/);c=h._(/*FBT_CALL*/"Suggested"/*FBT_CALL*/);d=h._(/*FBT_CALL*/"Facebook"/*FBT_CALL*/);e=h._(/*FBT_CALL*/"All suggestions"/*FBT_CALL*/);g.EXPLORE_TEXT=a;g.DISCOVER_PEOPLE_TEXT=b;g.SUGGESTED_USERS_TEXT=c;g.FACEBOOK_TEXT=d;g.ALL_SUGGESTIONS_TEXT=e}),98);
